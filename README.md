@@ -45,4 +45,12 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="60" height="60" /> </a>
+
+    
 </p>
+
+<h3 align="left">Digital Holopin Badges</h3>
+
+[![An image of @jiyaguptacs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiyaguptacs)](https://holopin.io/@jiyaguptacs)
+
+
