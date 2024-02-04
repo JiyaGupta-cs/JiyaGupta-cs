@@ -67,6 +67,23 @@
        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyagupta-cs&theme=tokyonight"  display=block width=100% height=auto alt="3" >          </td>
    </tr> -->
  </table>
+
+  <h3 align="center">Visitor Count</h3>
+ <a align="center" href="https://profile-counter.glitch.me/{JiyaGupta-cs}/count.svg">
+   
+   ![VisitorCount](https://profile-counter.glitch.me/{JiyaGupta-cs}/count.svg)  
+   
+ </a>
+ 
+ <hr>
+
+ <div align="center">
+   
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JiyaGupta-cs&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   
+ </div>
+ 
+ <hr> 
  
  # Productivity Stats📈:
  <table>
