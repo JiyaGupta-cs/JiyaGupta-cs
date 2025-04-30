@@ -14,11 +14,11 @@
 
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,tailwind,wordpress,vite,javascript,typescript,rust,nodejs,express,mongodb,postgres,prisma,supabase,angular,react,git,nextjs,postman,astro,redis,firebase,materialui,ruby,rails,docker,figma)](https://skillicons.dev) 
 
-
+<!--
 <h3 align="left">Digital Holopin Badges</h3>
 
 [![An image of @jiyaguptacs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiyaguptacs)](https://holopin.io/@jiyaguptacs)
-
+ -->
 
 
 
